@@ -11,7 +11,7 @@ Elpers are small, efficient functions that help you write more concise code.
 # What you get
 - 🌳 Automatic treeshaking & development mode bundles
 - 🕳️ Small, purpose built functions
-- 👮 Type safety with native typescript typings
+- 🤝 Strong Types & thorough tests
 
 
 # Contributing
